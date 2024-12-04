@@ -1,3 +1,5 @@
 package Proyekt_file
 
-data class Datafile()
+import java.io.File
+
+data class Datafile(var name:String)
